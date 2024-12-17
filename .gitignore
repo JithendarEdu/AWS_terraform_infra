@@ -6,6 +6,6 @@ providers.tf
 # Azure_terraform_infra/backend.tf
 # Azure_terraform_infra/providers.tf
 
-
+.terraform.tfvars
 
 .terraform/
